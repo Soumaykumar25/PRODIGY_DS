@@ -1,9 +1,4 @@
 # PRODIGY_DS
-Task-1
-Visualization of data using bar charts. The data includes polulation of all countries since 1960. The data has many unnecesary entities, had to clean and preprocess to proceed. Plotted bar graph seperately for each country as Year vs Population.
-
-Dataset: https://data.worldbank.org/indicator/SP.POP.TOTL
-
 Task-2
 To perform data cleaning and EDA on the Titanic dataset from Kaggle.com.
 
